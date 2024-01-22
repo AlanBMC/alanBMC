@@ -3,10 +3,12 @@
 
 <p align="center">👋 Olá devs! Aqui é o meu mundo, focado no Back-end e IA. 👨‍💻 Trabalho com Java e Python, apaixonado por IA e estudante na UFMT. </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=alanBMC&theme=radical&mode=weekly" />
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alanBMC&theme=radical"> 
-</div>
+<div align="center">
+  <a href="https://github.com/pereira3R">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pereira3R&show_icons=true&theme=radical&count_private=true" height="200em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereira3R&theme=radical" height="200em" alt="Top Languages"/>
+</p>
  
  &nbsp;
  &nbsp;
