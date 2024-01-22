@@ -4,10 +4,10 @@
 <p align="center">👋 Olá devs! Aqui é o meu mundo, focado no Back-end e IA. 👨‍💻 Trabalho com Java e Python, apaixonado por IA e estudante na UFMT. </p>&nbsp;
 
 <div align="center">
-  <a href="https://github.com/pereira3R">
+  <a href="https://github.com/alanBMC">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanBMC&show_icons=true&theme=radical&count_private=true" height="200em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanBMC&theme=radical" height="200em" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alanBMC&show_icons=true&theme=radical&count_private=true" height="150em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanBMC&theme=radical" height="150em" alt="Top Languages"/>
 </p>
  
  &nbsp;
