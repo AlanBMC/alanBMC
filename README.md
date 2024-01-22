@@ -7,7 +7,7 @@
   <a href="https://github.com/alanBMC">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanBMC&show_icons=true&theme=radical&count_private=true" height="150em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanBMC&theme=radical" height="150em" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBMC&theme=radical" height="150em" alt="Top Languages"/>
 </p>
  
  &nbsp;
