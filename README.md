@@ -69,6 +69,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue)&nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-ED8B00?style=plastic&logo=python&logoColor=blue)&nbsp;
 
+
 #### 🎲 Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)&nbsp;
