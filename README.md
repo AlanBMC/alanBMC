@@ -13,7 +13,7 @@
  &nbsp;
  &nbsp;
 
-<h2>👨‍💻 Minhas Habilidades principais</h2>
+#### 👨‍💻 Minhas Habilidades principais
 
 <div class="habilidades-container" style="{
             display: flex;
@@ -21,10 +21,10 @@
             justify-content: center;
             margin-top: 20px;
         }">
-    <p class="habilidades-text">Minhas principais habilidades:</p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue" alt="Python">
-    <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="C">
+    
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="C">
 </div>
 
 
