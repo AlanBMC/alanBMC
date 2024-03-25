@@ -58,7 +58,8 @@
             justify-content: center;
             margin-top: 20px;
         }">
-    <img src="https://img.shields.io/badge/StreamlitFF4B4Bstyle=plastic&logo=Streamlit&logoColor=white"alt="Streamlit">
+
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4Bstyle=plastic&logo=Streamlit&logoColor=white" alt="Streamlit">
 </div>
 
 #### 👨‍💻 Estudando no momento:
