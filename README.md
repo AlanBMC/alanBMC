@@ -22,7 +22,7 @@
             margin-top: 20px;
         }">
     
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="C">
 </div>
@@ -45,21 +45,20 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### 📚 Bibliotecas:
+#### 📚 Framework:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot" alt="Spring Boot">
 
 
-#### 📚 Bibliotecas - basico
+#### 📚 Bibliotecas
 <div style="{
             display: flex;
             align-items: center;
             justify-content: center;
             margin-top: 20px;
         }">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white" alt="Streamlit">
-    <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/StreamlitFF4B4Bstyle=plastic&logo=Streamlit&logoColor=white"alt="Streamlit">
 </div>
 
 #### 👨‍💻 Estudando no momento:
@@ -90,6 +89,7 @@
 ![MIRO](https://img.shields.io/badge/Miro-F7C922?style=plastic&logo=Miro&logoColor=050036)&nbsp;
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=plastic&logo=Overleaf&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white" alt="Postman">
 
 #### 🛠️ ORM:
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)&nbsp; 
