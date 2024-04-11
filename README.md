@@ -4,6 +4,10 @@
 <p align="center">👋 Olá devs! Aqui é o meu mundo, focado no Back-end e IA. 👨‍💻 Trabalho com Java e Python, apaixonado por IA e estudante na UFMT. </p>&nbsp;
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/{AlanBMC}/count.svg"/>
+</div> <br>
+
+<div align="center">
   <a href="https://github.com/alanBMC">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alanBMC&show_icons=true&theme=dark&count_private=true" height="220em">
