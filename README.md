@@ -1,7 +1,7 @@
-## Olá mundo
+## Olá mundo!
 
 
-<p align="center">👋 Olá devs! Aqui é o meu mundo, focado no Back-end e IA. 👨‍💻 Trabalho com Java e Python, apaixonado por IA e estudante na UFMT. </p>&nbsp;
+<p align="center">👋  Olá, devs! Nos repositórios a seguir, vocês encontrarão projetos focados em Inteligência Artificial, desenvolvimento de jogos e processamento de dados 👨‍💻. Estou constantemente aprendendo e explorando as possibilidades do Python e Java, bem como seus frameworks. Atualmente sou estudante de ciências da computação na UFMT.</p>&nbsp;
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/{AlanBMC}/count.svg"/>
