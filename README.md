@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/alanBMC">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&show_icons=true&theme=dark&include_all_commits=true" height="220em">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="220em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBMC&theme=dark" height="220em" alt="Top Languages"/>
 </p>
  
