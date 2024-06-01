@@ -10,9 +10,8 @@
 <div align="center">
   <a href="https://github.com/alanBMC">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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" 
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&show_icons=true&theme=dark&include_all_commits=True&count_private=True&token=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" 
     height="220em">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanBMC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBMC&theme=dark" height="220em" alt="Top Languages"/>
 </p>
