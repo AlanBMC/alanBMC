@@ -30,7 +30,6 @@
     
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="C">
 </div>
 
 
