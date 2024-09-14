@@ -4,21 +4,12 @@
 <p align="center">👋  Olá, devs! Nos repositórios a seguir, vocês encontraram projetos focados em Inteligência Artificial, desenvolvimento de jogos, processamento de dados 👨‍💻, entre outros. Estou constantemente aprendendo e explorando as possibilidades do Python e Java, bem como seus frameworks. Atualmente sou estudante de ciências da computação na UFMT.</p>&nbsp;
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{AlanBMC}/count.svg"/>
-</div> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true&order=1" height="129" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanBMC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true&order=2" height="128" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlanBMC&locale=en&mode=weekly&theme=bear&hide_border=true&border_radius=19&order=3" height="130" alt="streak graph"  />
+</div>
 
-<div align="center">
-  <a href="https://github.com/AlanBMC">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&show_icons=true&theme=dark&token=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" 
-    height="220em">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBMC&theme=dark" height="220em" alt="Top Languages"/>
-</p>
- 
- &nbsp;
- &nbsp;
-
+###
 #### 👨‍💻 Minhas Habilidades principais
 
 <div class="habilidades-container" style="{
