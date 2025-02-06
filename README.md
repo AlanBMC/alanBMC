@@ -1,7 +1,7 @@
 ## Olá mundo!
 
 
-<p align="center">👋  Olá, devs! Nos repositórios a seguir, vocês encontraram projetos focados em Inteligência Artificial, desenvolvimento de jogos, processamento de dados 👨‍💻, entre outros. Estou constantemente aprendendo e explorando as possibilidades do Python e Java, bem como seus frameworks. Atualmente sou estudante de ciências da computação na UFMT.</p>&nbsp;
+<p align="center">👋  HI, devs! Welcome in my repository.</p>&nbsp;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=true&order=1" height="129" alt="stats graph"  />
