@@ -1,7 +1,7 @@
 ## Sobre Mim
-Sou Alan Bruno Morais Costa, estudante de Ciência da Computação na UFMT. Atuo como Desenvolvedor FullStack na InfoCorp e Estagiário na MTI. Tenho experiência com Java (Spring Boot), Python (Django) e bancos de dados. Busco aprimorar habilidades e contribuir com projetos inovadores.
+Sou estudante de Ciência da Computação na UFMT. Atuo como Desenvolvedor FullStack na InfoCorp e Estagiário na MTI. Tenho experiência com Java (Spring Boot), Python (Django) e bancos de dados. Busco aprimorar habilidades e contribuir com projetos inovadores.
 
-## 📊 Estatísticas do GitHub
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlanBMC&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="AlanBMC's GitHub Stats">
 </p>
